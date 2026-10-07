@@ -1,0 +1,8 @@
+.env
+memory.db
+memory.json
+__pycache__/
+*.pyc
+*.pyo
+data/
+config/
