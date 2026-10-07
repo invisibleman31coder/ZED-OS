@@ -1,8 +1,11 @@
-# ZED-OS 🖤
-Phone-built 10-brain unkillable AI OS by Sandile Maphumulo | Durban, SA
+# ZED-OS
 
-DarkMode | 4 Free API brains (OpenRouter, Gemini, Groq, HuggingFace)
-Survives loadshedding & no-laptop life.
+4-brain AI operating system with voice, memory, and DarkMode.
+
+Stack: OpenRouter / Gemini / Groq / HuggingFace
+Platform: Android (Pydroid 3)
 
 Run: python zed_voice.py
-Built entirely on Android.
+
+Author: Sandile Maphumulo
+Durban, South Africa
