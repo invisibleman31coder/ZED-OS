@@ -1,0 +1,1 @@
+import time, random; print("ZED HackSim v1.5\n"); [print(f"[{i*20}%] Breaching node {random.randint(100,999)}...") or time.sleep(0.4) for i in range(5)]; print("\nROOT ACCESS GRANTED!")

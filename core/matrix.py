@@ -1,0 +1,1 @@
+import time, random; [print("".join([str(random.randint(0,1)) for _ in range(40)])) or time.sleep(0.05) for _ in range(20)]

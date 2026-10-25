@@ -1,0 +1,1 @@
+import os, platform; print(f"OS: {platform.system()} | Files: {len(os.listdir("."))} | Time: {__import__("datetime").datetime.now()}")
