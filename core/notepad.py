@@ -1,1 +1,0 @@
-t=input("Note name: "); c=input("Text: "); open(t,"w").write(c); print(f"Saved {t}")
