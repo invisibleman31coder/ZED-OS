@@ -1,26 +1,33 @@
-# ZED-OS 🧠💀
+# GHOST // ZED-OS DUAL BRAIN EDITION
+**AUTONOMOUS • AI • SELF-BUILDING OS**
+> Built by **invisibleman31coder**
 
-**v2.1 INTERNET FINAL STABLE - Durban SA**
-> DarkMode - 4 Brain AI
+![ZED-OS](assets/logos/logo-v2-purple.jpg)
 
-ZED-OS is a custom AI operating system built from Termux, running 4 parallel AI brains in DarkMode architecture.
+### Brain System
+- ONLINE: Groq AI (fast)
+- OFFLINE: Smart Brain + Self-Builder (NO DATA NEEDED)
 
 ### Features
-- 4 Brain System: Multi-agent AI core
-- DarkMode Core: Optimized for low-power / mobile
-- Internet Stable: v2.1 fully online & persistent
-- Memory System: Long-term logs + memory
-- Built in Durban, SA
+- Works 100% offline
+- Self-building tools
+- Dual brain auto-switch
+- Termux native
+
+### Tools: 3 ACTIVE
+- smart_offline_brain.py
+- build_self_builder.py
+- password_generator.py
+
+### Run
+python zed.py
 
 ### Structure
-core/ - Core brains & agents
-memory/ - Persistent memory
-logs/ - System activity logs
+ZED-OS/
+- zed.py (main)
+- modules/offline_tools/
+- assets/logos/
+- memory/
+- vault/
 
-### Quick Start
-git clone https://github.com/invisibleman31coder/ZED-OS.git
-cd ZED-OS
-
-### Author
-invisibleman31coder - Durban, SA
-Built on mobile via Termux.
+Saider AI - ZED-OS Autonomous System

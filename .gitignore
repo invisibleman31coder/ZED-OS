@@ -1,8 +1,19 @@
-.env
-memory.db
-memory.json
+# Termux / OS junk
 __pycache__/
 *.pyc
 *.pyo
+*.log
+.env
+.groq_cache
+.zed_*
+*.zed
+vault.json
+Saider.zed
+memory/
+vault/
 data/
-config/
+*.tar.gz
+*.BAK
+*BACKUP*
+agents/
+ui/
